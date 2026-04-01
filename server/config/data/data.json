@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Highlights of the United Kingdom",
+    "description": "Embark on a guided tour of England, Scotland, and Ireland.",
+    "img_url": "https://tinyurl.com/bdzy2tjp",
+    "num_days": 10,
+    "start_date": "2023-07-11",
+    "end_date": "2023-07-22",
+    "total_cost": 3899.00
+  },
+  {
+    "title": "A Week in Italy: Venice, Florence, & Rome",
+    "description": "Experience the vibrant culture of Italy's iconic cities.",
+    "img_url": "https://tinyurl.com/5e7kcc5a",
+    "num_days": 7,
+    "start_date": "2023-03-01",
+    "end_date": "2023-03-08",
+    "total_cost": 2509.00
+  }
+]
